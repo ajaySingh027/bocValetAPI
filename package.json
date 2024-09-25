@@ -1,0 +1,21 @@
+{
+  "name": "apiautomation",
+  "version": "1.0.0",
+  "description": "Contains the api automation",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Ajay Singh",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.47.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^22.6.1",
+    "allure-commandline": "^2.30.0",
+    "allure-playwright": "^3.0.2",
+    "dotenv": "^16.4.5"
+  }
+}
